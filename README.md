@@ -1,7 +1,38 @@
-<<<<<<< HEAD
-# Maze Game Project
-This is a full-stack app with FastAPI backend and React frontend.
-=======
-# minimal-maze-game
-Minimalist 7x7 React Maze Game with dynamic DFS generation
->>>>>>> 6716c205e99c0af230185af9e332df512f239d47
+🧩 Minimal Maze Game
+A minimalist, dynamically generated 7x7 maze game built with React. The player must navigate to the goal within a time limit. The maze is procedurally created using Depth-First Search (DFS), ensuring fresh challenges each time.
+
+🎮 Demo
+🚀 Play it live 
+
+✨ Features
+🧠 Random Maze Generation – DFS algorithm for unique layouts.
+
+🎯 Simple 7x7 Grid – Clean, focused gameplay.
+
+⏱️ Time Limit – Adds challenge and urgency.
+
+📦 Lightweight UI – Minimalist design with smooth animations.
+
+♿ Keyboard Controls – Arrow key movement support.
+
+🛠️ Tech Stack
+React.js
+
+HTML5 Canvas
+
+JavaScript (ES6+)
+
+📦 Setup & Run Locally
+bash
+Copy
+Edit
+git clone https://github.com/dontwannaexist/minimal-maze-game.git
+cd minimal-maze-game
+npm install
+npm start
+🚀 Deploy to GitHub Pages
+bash
+Copy
+Edit
+npm run build
+npm run deploy
