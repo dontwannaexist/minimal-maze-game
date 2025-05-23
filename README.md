@@ -27,12 +27,22 @@ bash
 Copy
 Edit
 git clone https://github.com/dontwannaexist/minimal-maze-game.git
+
+
 cd minimal-maze-game
+
 npm install
+
 npm start
+
 🚀 Deploy to GitHub Pages
+
 bash
+
 Copy
+
 Edit
+
 npm run build
+
 npm run deploy
